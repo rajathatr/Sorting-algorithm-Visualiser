@@ -12,4 +12,15 @@ It asks to input a set of randomly arranged positive integers and allow you to c
 
 When you run the program,you need to input total number of elements.Then you need to enter each element one by one.
 
-![]()
+A sample example:
+
+![](Images/sti2.png)
+
+
+Then a menu pops up asking you to choose one of the above algorithm
+
+![](Images/sti3.png)
+
+Enter the number in front of the algorithm you want to choose.Then the program executes by showing each step with some delay.
+
+![](Images/sti4.png)
