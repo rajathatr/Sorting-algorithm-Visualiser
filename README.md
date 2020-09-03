@@ -24,3 +24,9 @@ Then a menu pops up asking you to choose one of the above algorithm
 Enter the number in front of the algorithm you want to choose.Then the program executes by showing each step with some delay.
 
 ![](Images/Sortinggif.gif)
+
+When the algorithm terminates,it will ask whether to try a different algorithm(continue) for the same order of numbers or to exit.You have to choose accordingly.
+
+![](Images/sti4.png)
+
+THAT'S IT!!!
