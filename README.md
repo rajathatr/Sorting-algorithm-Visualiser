@@ -1,6 +1,6 @@
 # Sorting-algorithm-Visualiser
 
-This project helps visualises 6 different sorting algorithms which are\
+This project helps in visualizing 6 different sorting algorithms which are\
 1.Bubble sort.\
 2.Insertion sort.\
 3.Selection sort.\
